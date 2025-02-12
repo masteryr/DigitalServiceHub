@@ -1,6 +1,6 @@
 ---
 name: طلب ميزة
-about: اقترح فكرة لهذا المشروع
+about: اقترح فكرة عن هذا المشروع
 title: ''
 labels: ''
 assignees: ''
